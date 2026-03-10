@@ -1,5 +1,6 @@
 # political-motions
-Inside the Swedish Riksdag: A data-driven look at Swedish parliamentary motions
+Inside the Swedish Riksdag: A data-driven look at Swedish parliamentary motions.
+Below are the visualisations and the takeaways. Find all the code and analysis in the attached file political_motions_analysis.ipynb.
 
 # The party Landscape
 <img width="468" height="618" alt="Screenshot 2026-03-10 at 14 26 28" src="https://github.com/user-attachments/assets/fd0dec95-6ed0-4826-8693-3adb292bfb53" />
